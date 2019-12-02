@@ -29,6 +29,8 @@ GEM
     faker (2.7.0)
       i18n (>= 1.6, < 1.8)
     ffi (1.11.3-java)
+    fig_newton (1.0)
+      yml_reader (>= 0.7)
     gherkin (5.1.0)
     i18n (1.7.0)
       concurrent-ruby (~> 1.0)
@@ -78,6 +80,7 @@ PLATFORMS
 DEPENDENCIES
   cucumber
   data_magic
+  fig_newton
   page-object (~> 2.0)
   pry
   rake

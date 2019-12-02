@@ -7,4 +7,5 @@ Before do
   else
     @browser = Watir::Browser.new :firefox
   end
+  # @browser.goto 'http://the-internet.herokuapp.com/login'
 end

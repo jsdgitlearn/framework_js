@@ -1,0 +1,3 @@
+valid_user_credentials:
+  username: 'tomsmith'
+  password: 'SuperSecretPassword!'

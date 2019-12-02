@@ -1,7 +1,7 @@
 Given(/^I am on the Secure Area Login page$/) do
-  pending
+  visit(LoginPage)
+  # @browser.goto 'http://the-internet.herokuapp.com/login'
 end
-
 When(/^I input valid_user_credentials$/) do
   pending
 end
